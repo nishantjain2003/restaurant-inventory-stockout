@@ -1,0 +1,91 @@
+dish_id,dish_name,dish_category,ingredient_id,ingredient_name,ingredient_category,quantity_per_plate,unit
+D01,Idli,Breakfast,I01,Idli Rice,Grain,80,g
+D01,Idli,Breakfast,I02,Urad Dal,Pulse,20,g
+D01,Idli,Breakfast,I03,Fenugreek Seeds,Spice,1,g
+D02,Plain Dosa,Breakfast,I01,Idli Rice,Grain,70,g
+D02,Plain Dosa,Breakfast,I02,Urad Dal,Pulse,15,g
+D02,Plain Dosa,Breakfast,I04,Cooking Oil,Oil,10,ml
+D03,Masala Dosa,Breakfast,I01,Idli Rice,Grain,70,g
+D03,Masala Dosa,Breakfast,I02,Urad Dal,Pulse,15,g
+D03,Masala Dosa,Breakfast,I04,Cooking Oil,Oil,15,ml
+D03,Masala Dosa,Breakfast,I05,Potato,Vegetable,100,g
+D03,Masala Dosa,Breakfast,I06,Onion,Vegetable,30,g
+D03,Masala Dosa,Breakfast,I07,Mustard Seeds,Spice,2,g
+D03,Masala Dosa,Breakfast,I08,Curry Leaves,Herb,2,g
+D03,Masala Dosa,Breakfast,I09,Turmeric Powder,Spice,1,g
+D04,Vada,Breakfast,I02,Urad Dal,Pulse,60,g
+D04,Vada,Breakfast,I06,Onion,Vegetable,15,g
+D04,Vada,Breakfast,I10,Green Chilli,Vegetable,3,g
+D04,Vada,Breakfast,I04,Cooking Oil,Oil,20,ml
+D05,Sambar Vada,Breakfast,I02,Urad Dal,Pulse,60,g
+D05,Sambar Vada,Breakfast,I04,Cooking Oil,Oil,20,ml
+D05,Sambar Vada,Breakfast,I11,Toor Dal,Pulse,40,g
+D05,Sambar Vada,Breakfast,I12,Tamarind,Spice,5,g
+D05,Sambar Vada,Breakfast,I13,Sambar Powder,Spice,4,g
+D05,Sambar Vada,Breakfast,I14,Drumstick,Vegetable,20,g
+D06,Uttapam,Breakfast,I01,Idli Rice,Grain,80,g
+D06,Uttapam,Breakfast,I02,Urad Dal,Pulse,15,g
+D06,Uttapam,Breakfast,I06,Onion,Vegetable,25,g
+D06,Uttapam,Breakfast,I15,Tomato,Vegetable,20,g
+D06,Uttapam,Breakfast,I04,Cooking Oil,Oil,15,ml
+D07,Pongal,Breakfast,I01,Idli Rice,Grain,60,g
+D07,Pongal,Breakfast,I16,Moong Dal,Pulse,25,g
+D07,Pongal,Breakfast,I17,Ghee,Fat,10,g
+D07,Pongal,Breakfast,I18,Black Pepper,Spice,1,g
+D07,Pongal,Breakfast,I19,Cumin Seeds,Spice,1,g
+D07,Pongal,Breakfast,I20,Cashew,Nuts,5,g
+D08,Rava Kesari,Dessert,I21,Semolina (Rava),Grain,60,g
+D08,Rava Kesari,Dessert,I22,Sugar,Sweetener,50,g
+D08,Rava Kesari,Dessert,I17,Ghee,Fat,15,g
+D08,Rava Kesari,Dessert,I23,Cardamom,Spice,1,g
+D08,Rava Kesari,Dessert,I20,Cashew,Nuts,5,g
+D09,Sambar Rice,Lunch,I24,Raw Rice,Grain,150,g
+D09,Sambar Rice,Lunch,I11,Toor Dal,Pulse,50,g
+D09,Sambar Rice,Lunch,I12,Tamarind,Spice,8,g
+D09,Sambar Rice,Lunch,I13,Sambar Powder,Spice,6,g
+D09,Sambar Rice,Lunch,I14,Drumstick,Vegetable,30,g
+D09,Sambar Rice,Lunch,I06,Onion,Vegetable,20,g
+D10,Curd Rice,Lunch,I24,Raw Rice,Grain,150,g
+D10,Curd Rice,Lunch,I25,Curd,Dairy,100,ml
+D10,Curd Rice,Lunch,I07,Mustard Seeds,Spice,2,g
+D10,Curd Rice,Lunch,I08,Curry Leaves,Herb,2,g
+D10,Curd Rice,Lunch,I26,Ginger,Vegetable,5,g
+D11,Lemon Rice,Lunch,I24,Raw Rice,Grain,150,g
+D11,Lemon Rice,Lunch,I27,Lemon,Vegetable,15,g
+D11,Lemon Rice,Lunch,I07,Mustard Seeds,Spice,2,g
+D11,Lemon Rice,Lunch,I28,Peanuts,Nuts,10,g
+D11,Lemon Rice,Lunch,I09,Turmeric Powder,Spice,1,g
+D12,Bisi Bele Bath,Lunch,I24,Raw Rice,Grain,120,g
+D12,Bisi Bele Bath,Lunch,I11,Toor Dal,Pulse,40,g
+D12,Bisi Bele Bath,Lunch,I29,Mixed Vegetables,Vegetable,80,g
+D12,Bisi Bele Bath,Lunch,I30,Bisi Bele Bath Powder,Spice,8,g
+D12,Bisi Bele Bath,Lunch,I17,Ghee,Fat,10,g
+D13,Veg Biryani,Lunch,I31,Basmati Rice,Grain,150,g
+D13,Veg Biryani,Lunch,I29,Mixed Vegetables,Vegetable,100,g
+D13,Veg Biryani,Lunch,I06,Onion,Vegetable,40,g
+D13,Veg Biryani,Lunch,I32,Biryani Masala,Spice,6,g
+D13,Veg Biryani,Lunch,I17,Ghee,Fat,15,g
+D13,Veg Biryani,Lunch,I33,Mint Leaves,Herb,5,g
+D14,Chicken Biryani,Lunch,I31,Basmati Rice,Grain,150,g
+D14,Chicken Biryani,Lunch,I34,Chicken,Meat,180,g
+D14,Chicken Biryani,Lunch,I06,Onion,Vegetable,50,g
+D14,Chicken Biryani,Lunch,I32,Biryani Masala,Spice,8,g
+D14,Chicken Biryani,Lunch,I17,Ghee,Fat,15,g
+D14,Chicken Biryani,Lunch,I33,Mint Leaves,Herb,5,g
+D15,Filter Coffee,Beverage,I35,Coffee Powder,Beverage,10,g
+D15,Filter Coffee,Beverage,I36,Milk,Dairy,100,ml
+D15,Filter Coffee,Beverage,I22,Sugar,Sweetener,10,g
+D16,Masala Chai,Beverage,I37,Tea Powder,Beverage,5,g
+D16,Masala Chai,Beverage,I36,Milk,Dairy,100,ml
+D16,Masala Chai,Beverage,I22,Sugar,Sweetener,10,g
+D16,Masala Chai,Beverage,I38,Ginger-Cardamom Mix,Spice,2,g
+D17,Rasam Rice,Lunch,I24,Raw Rice,Grain,150,g
+D17,Rasam Rice,Lunch,I12,Tamarind,Spice,6,g
+D17,Rasam Rice,Lunch,I39,Rasam Powder,Spice,5,g
+D17,Rasam Rice,Lunch,I15,Tomato,Vegetable,30,g
+D17,Rasam Rice,Lunch,I19,Cumin Seeds,Spice,1,g
+D18,Payasam,Dessert,I40,Vermicelli,Grain,50,g
+D18,Payasam,Dessert,I36,Milk,Dairy,150,ml
+D18,Payasam,Dessert,I22,Sugar,Sweetener,40,g
+D18,Payasam,Dessert,I20,Cashew,Nuts,5,g
+D18,Payasam,Dessert,I23,Cardamom,Spice,1,g
